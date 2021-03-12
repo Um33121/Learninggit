@@ -1,0 +1,63 @@
+body{
+    background-color: lightblue;
+}
+.main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid;
+    min-width: 300px;
+    max-width: 700px;
+}
+img{
+    width: 100%;
+} */
+
+
+form{
+    width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+}
+input{
+    padding: 10px;
+    margin: 10px 100px 10px 120px;
+    font-size: 1em;
+    border: 1px solid gray;
+}
+button{
+    padding: 10px 40px 10px 40px;
+    margin: 20px 100px 5px 180px;
+    color: snow;
+    background-color:black;
+    border-radius: 5px;
+    font: size 1em;
+}
+input.email{
+    background-image: url(https://image.shutterstock.com/image-vector/email-icon-260nw-438858262.jpg);
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 40px;
+}
+input.password{
+    background-image: url(https://icons-for-free.com/iconfiles/png/512/key+password+unlock+icon-1320190937666084898.png);
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 40px;
+}
+ fieldset{
+     border-radius: 10px;
+     border: 1px solid green;
+     width: 500px;
+     margin: 100px 100px 50px 400px;
+     background-color: aquamarine;
+ }
+ legend{
+     color: black;
+     font-weight: bold;
+ }
+ /* .center{
+     text-align: center;
+ } */
+ .hover:hover{
+     background-color: burlywood;
+ }
